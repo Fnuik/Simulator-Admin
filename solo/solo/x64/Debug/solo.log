@@ -1,0 +1,4 @@
+﻿  solo.cpp
+E:\коды\solo\solo\solo.cpp(104,12): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\коды\solo\solo\solo.cpp(1056,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  solo.vcxproj -> E:\коды\solo\x64\Debug\solo.exe
